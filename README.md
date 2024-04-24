@@ -54,6 +54,8 @@ Used to convert the metadata of photos into metadata suitable for use in the Yam
 ## 2.3 点击**生成**
 
 点击生成即可获得照片的元数据
+![image](https://github.com/WinHex89/PictureToYaml/assets/134070684/962c3a30-6e2a-462f-b874-873d43441eba)
+
 
 
 ## 2.4 复制元数据
