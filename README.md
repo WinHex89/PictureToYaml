@@ -78,7 +78,10 @@ Used to convert the metadata of photos into metadata suitable for use in the Yam
 
 
 
+# 3 后续更新安排
+## 3.1 支持直接拖拽图片进入软件
 
+## 3.2 支持批量生成同级目录下照片的信息
 
 
 
