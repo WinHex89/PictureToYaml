@@ -1,8 +1,12 @@
 # PictureToYaml🖼️
 
-Used to convert the metadata of photos into metadata suitable for use in the Yaml area of Obsidian丨用来将照片的元数据转为适合在Obsidian的Yaml区域使用的元数据
+Used to convert the metadata of photos into metadata suitable for use in the Yaml area of Obsidian
+
+用来将照片的元数据转为适合在Obsidian的Yaml区域使用的元数据
 
 ---
+![image](https://github.com/WinHex89/PictureToYaml/assets/134070684/9fa1f29f-d185-461d-b0c5-ce3e9cd97076)
+
 
 
 # 前言
@@ -19,7 +23,10 @@ Used to convert the metadata of photos into metadata suitable for use in the Yam
 
 ##  1.1自行获取高德地图的API
 调用高德的坐标转换API，前往[高德地图的控制台](https://console.amap.com/dev/key/app)申请一个就行。
-![API](https://github.com/WinHex89/PictureToYaml/assets/134070684/ccc3b2ce-dea5-45b1-988c-bb14c1e36346)
+
+![image](https://github.com/WinHex89/PictureToYaml/assets/134070684/e7fd434a-6c48-4802-aff8-a2b44bc5e486)
+
+
 
 
 然后填入到API的框内即可
@@ -30,7 +37,12 @@ Used to convert the metadata of photos into metadata suitable for use in the Yam
 
 在相机或者手机中开启**记录地理位置**，这样照片中才会包含地理位置信息
 
-![保存地理位置信息](https://github.com/WinHex89/PictureToYaml/assets/134070684/1c098c4b-a2bb-47b6-a35c-2479f25906ff)
+![image](https://github.com/WinHex89/PictureToYaml/assets/134070684/5b01a30c-38c2-418a-9649-cfceef7b9ddb)
+
+> 符合要求的图片（即有地理信息的图片）是可以在属性中查看GPS的信息的
+![image](https://github.com/WinHex89/PictureToYaml/assets/134070684/a2faa21d-4ff2-465a-ad5d-85579b408687)
+
+
 
 
 ### 1.2.2 传输要求
@@ -38,7 +50,9 @@ Used to convert the metadata of photos into metadata suitable for use in the Yam
 
 
 # 2.使用步骤
-![软件界面](https://github.com/WinHex89/PictureToYaml/assets/134070684/96dccbc3-cb97-4e70-994e-494c8350c34d)
+
+![image](https://github.com/WinHex89/PictureToYaml/assets/134070684/a16df255-7471-42bb-a768-329e3e36406a)
+
 
 
 ## 2.1 填写API
@@ -54,7 +68,8 @@ Used to convert the metadata of photos into metadata suitable for use in the Yam
 ## 2.3 点击**生成**
 
 点击生成即可获得照片的元数据
-![image](https://github.com/WinHex89/PictureToYaml/assets/134070684/962c3a30-6e2a-462f-b874-873d43441eba)
+![image](https://github.com/WinHex89/PictureToYaml/assets/134070684/4e4625b7-1e72-43d1-90f1-d0472de4d6e9)
+
 
 
 
